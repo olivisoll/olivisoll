@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Loycus
+- 🔭 I’m currently working at Darwinex
 - :computer: Take a look to my portfolio [here](https://olivisoll.github.io/)
 - :mag: Find me in [LinkedIn](https://linkedin.com/in/olivialuis)
 - 😄 Pronouns: she / her

@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working at Darwinex
+- 🔭 I’m currently working at [Darwinex](https://www.darwinex.com)
 - :computer: Take a look to my portfolio [here](https://olivisoll.github.io/)
 - :mag: Find me in [LinkedIn](https://linkedin.com/in/olivialuis)
 - 😄 Pronouns: she / her
